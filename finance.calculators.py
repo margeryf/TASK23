@@ -84,3 +84,7 @@ elif rescribe_choice == "bond" :
 # i= monthly interest rate - calculated by dividing the annual interest rate by 12
 #remeber to divide interest enteres by the user by 100 (eg 8/100) before dividing /12
 #n = number of months over which the bond will be repaid 
+    
+
+    #adding new comment
+    
