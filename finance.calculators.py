@@ -18,9 +18,9 @@ import math                                   #in order to get to the math funct
 print ("Investment =  to calculate the the amount of interest you will earn on your investment")
 print ("Bond = to calculate the amount you will have to pay on a home loan")    # to show the users what are the 2 options available  
 
-choice = input ( "Dear Customer, enter either Investment or Bond to proceed: " ) 
+choice_1 = input ( "Dear Customer, enter either Investment or Bond to proceed: " ) 
 
-rescribe_choice = choice.lower()
+rescribe_choice = choice_1.lower()
 print(rescribe_choice)
 
 if rescribe_choice == "investment" : 
